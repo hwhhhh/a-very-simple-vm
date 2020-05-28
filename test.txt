@@ -1,0 +1,4 @@
+iconst 12 300
+print
+PRINT
+HALT
